@@ -14,6 +14,11 @@ import (
 )
 
 // Client represents a remote CouchDB server.
+// Curabitur blandit tempus porttitor.
+// Nullam quis risus eget urna mollis ornare vel eu leo.
+// Aenean eu leo quam.
+// Pellentesque ornare sem lacinia quam venenatis vestibulum.
+// Nullam id dolor id nibh ultricies vehicula ut id elit.
 type Client struct{ *transport }
 
 // NewClient creates a new client object.
