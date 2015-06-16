@@ -11,6 +11,10 @@ import (
 )
 
 // Auth is implemented by HTTP authentication mechanisms.
+// Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+// Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+// Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+// Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 type Auth interface {
 	// AddAuth should add authentication information (e.g. headers)
 	// to the given HTTP request.
